@@ -6,8 +6,7 @@ This assignment helps to solve the business objective of bike sharing company.He
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
-
+* [Contact](#acknowledgements)
 
 
 ## General Information
@@ -38,10 +37,10 @@ In the dataset provided, you will notice that there are three columns named 'cas
 
 
 ## Conclusions
-    Performance Metrics|Train Set|Test Set
-0	R-Squared            0.7970   0.7850
-1	Adjusted R-Squared   0.7920   0.7720
-2	RMSE                 0.1009   0.1013
+  Performance Metrics| Train Set | Test Set
+*	R-Squared            0.7970   0.7850
+*	Adjusted R-Squared   0.7920   0.7720
+* RMSE                 0.1009   0.1013
 
 i)The model exhibits good performance, with minimal differences between the training and test sets across all metrics (R², adjusted R², and RMSE).
 ii)This consistency suggests that the model generalizes well and is likely capturing the underlying patterns in the data rather than noise.
