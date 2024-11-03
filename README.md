@@ -6,7 +6,7 @@ This assignment helps to solve the business objective of bike sharing company.He
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
-* [Contact](#acknowledgements)
+* [Contact](#contact)
 
 
 ## General Information
